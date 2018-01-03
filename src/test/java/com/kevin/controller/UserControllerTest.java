@@ -17,8 +17,6 @@ import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import org.springframework.web.context.WebApplicationContext;
 
-import static org.junit.Assert.*;
-
 @RunWith(SpringJUnit4ClassRunner.class)
 @WebAppConfiguration
 @ContextHierarchy({
@@ -38,7 +36,7 @@ public class UserControllerTest {
     }
 
     @Test
-    public void testView() throws Exception {
+    public void testGet() throws Exception {
         MvcResult result = mockMvc.perform(MockMvcRequestBuilders.get("/users/1"))
                 .andExpect(MockMvcResultMatchers.view().name("user/view"))
                 .andExpect(MockMvcResultMatchers.model().attributeExists("user"))
