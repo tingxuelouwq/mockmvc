@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="37999465-0e1e-44df-9e09-d0b6732d5527" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kevin/controller/UserController.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/controller/UserController.java" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/kevin/controller/UserController.class" afterPath="$PROJECT_DIR$/target/classes/com/kevin/controller/UserController.class" />
       <change beforePath="$PROJECT_DIR$/target/mockmvc/WEB-INF/classes/com/kevin/controller/UserController.class" afterPath="$PROJECT_DIR$/target/mockmvc/WEB-INF/classes/com/kevin/controller/UserController.class" />
     </list>
@@ -1021,8 +1020,16 @@
       <workItem from="1516263244039" duration="34000" />
       <workItem from="1517293669883" duration="655000" />
       <workItem from="1517294415409" duration="877000" />
-      <workItem from="1519439454119" duration="1430000" />
+      <workItem from="1519439454119" duration="1457000" />
     </task>
+    <task id="LOCAL-00001" summary="修改部分代码">
+      <created>1519440903557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519440903557</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1058,10 +1065,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48912000" />
+    <option name="totallyTimeSpent" value="48939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1104,6 +1112,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改部分代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改部分代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
