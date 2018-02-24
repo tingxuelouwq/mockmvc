@@ -59,8 +59,8 @@ public class UserController {
 
         ModelAndView mv = new ModelAndView();
         mv.addObject("test", "123");
-//        mv.setViewName("redirect:/users/show");
-        mv.setViewName("redirect:/show.jsp");
+        mv.setViewName("redirect:/users/show");
+//        mv.setViewName("redirect:/show.jsp");
         return mv;
     }
 
