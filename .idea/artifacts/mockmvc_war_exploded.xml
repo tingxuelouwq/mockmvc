@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="mockmvc:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/mockmvc_war_exploded</output-path>
+    <output-path>$PROJECT_DIR$/target/mockmvc</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -24,6 +24,9 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.12.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-test:4.3.12.RELEASE" />
         </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/mockmvc/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="mockmvc/web/Web" />
     </root>

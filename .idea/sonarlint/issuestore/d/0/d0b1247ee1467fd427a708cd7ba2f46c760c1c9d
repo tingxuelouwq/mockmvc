@@ -1,0 +1,7 @@
+
+fsquid:S4488!"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(°ºµ­8¸¬Ì ˆ-
+ksquid:S4488'"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(³ì¨ÿÿÿÿÿ8øô»¢ˆ-
+ksquid:S1192"HDefine a constant instead of duplicating this literal "session" 3 times.(Øäâøúÿÿÿÿ8ö’½¢ˆ-
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¤úÙ8¸¬Ì ˆ-
+isquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(¾Üƒ¸8èÕì¢ˆ-
+~squid:UselessImportCheck"SRemove this unused import 'org.springframework.web.bind.annotation.ModelAttribute'.(®ùæé8ùµò¢ˆ-

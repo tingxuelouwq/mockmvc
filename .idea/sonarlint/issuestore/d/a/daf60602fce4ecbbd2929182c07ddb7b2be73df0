@@ -1,17 +1,14 @@
 
-ksquid:S4488Z"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(òÈ®áúÿÿÿÿ8ÇÁäˆ-
-nsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(»ªàõÿÿÿÿÿ8†’“ˆ-
-ˆsquid:UselessImportCheck"XRemove this unused import 'org.springframework.web.servlet.support.RequestContextUtils'.(ñ¸şøÿÿÿÿ8†’“ˆ-
-wsquid:UselessImportCheck	"LRemove this unused import 'org.springframework.web.servlet.FlashMapManager'.(€±Æ¼8†’“ˆ-
-nsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(ì‚‰áúÿÿÿÿ8†’“ˆ-
-msquid:S44887"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Õ¡¤ùÿÿÿÿ8†’“ˆ-
-nsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(ßÀç×şÿÿÿÿ8†’“ˆ-
-fsquid:S4488S"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ïøûÎ8ŞäÚˆ-
+msquid:S4488'"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Õ¡¤ùÿÿÿÿ8ª¡µ ˆ-
+nsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ôŒ÷¦úÿÿÿÿ8ûĞèŸˆ-
+fsquid:UselessImportCheck";Remove this unused import 'javax.servlet.http.HttpSession'.(í¨ô8Å„åŸˆ-
+nsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ßÀç×şÿÿÿÿ8Å„åŸˆ-
 [
-squid:S106K"9Replace this use of System.out or System.err by a logger.(„£õòùÿÿÿÿ8†’“ˆ-
-psquid:UselessImportCheck"ERemove this unused import 'org.springframework.web.servlet.FlashMap'.(ëÏ¬á8†’“ˆ-
-nsquid:UselessImportCheck"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë8†’“ˆ-
-fsquid:UselessImportCheck";Remove this unused import 'javax.servlet.http.HttpSession'.(í¨ô8†’“ˆ-
-osquid:UselessImportCheck"ERemove this unused import 'org.springframework.util.CollectionUtils'.(åå…K8†’“ˆ-
+squid:S106J"9Replace this use of System.out or System.err by a logger.(„£õòùÿÿÿÿ8Å„åŸˆ-
+nsquid:UselessImportCheck"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë8Å„åŸˆ-
 U
-squid:S106H"9Replace this use of System.out or System.err by a logger.(Äş!8†’“ˆ-
+squid:S106G"9Replace this use of System.out or System.err by a logger.(Äş!8Å„åŸˆ-
+osquid:UselessImportCheck"ERemove this unused import 'org.springframework.util.CollectionUtils'.(åå…K8Å„åŸˆ-
+wsquid:UselessImportCheck	"LRemove this unused import 'org.springframework.web.servlet.FlashMapManager'.(€±Æ¼8Å„åŸˆ-
+ˆsquid:UselessImportCheck"XRemove this unused import 'org.springframework.web.servlet.support.RequestContextUtils'.(ñ¸şøÿÿÿÿ8Å„åŸˆ-
+psquid:UselessImportCheck"ERemove this unused import 'org.springframework.web.servlet.FlashMap'.(ëÏ¬á8Å„åŸˆ-
