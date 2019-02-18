@@ -47,9 +47,9 @@ public class SessionController {
         return "session";
     }
 
-    @RequestMapping(value = "model", method = RequestMethod.GET)
+    @RequestMapping(value = "/model", method = RequestMethod.GET)
     public String modelAnnotation(User attr1) {
-//        System.out.println("attr1: " + attr1);
+        System.out.println("attr1: " + attr1);
         return "session";
     }
 }

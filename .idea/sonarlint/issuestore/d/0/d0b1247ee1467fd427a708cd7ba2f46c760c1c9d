@@ -1,7 +1,10 @@
 
-fsquid:S4488!"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(°ºµ­8¸¬Ì ˆ-
-ksquid:S4488'"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(³ì¨ÿÿÿÿÿ8øô»¢ˆ-
-ksquid:S1192"HDefine a constant instead of duplicating this literal "session" 3 times.(Øäâøúÿÿÿÿ8ö’½¢ˆ-
-fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¤úÙ8¸¬Ì ˆ-
-isquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(¾Üƒ¸8èÕì¢ˆ-
-~squid:UselessImportCheck"SRemove this unused import 'org.springframework.web.bind.annotation.ModelAttribute'.(®ùæé8ùµò¢ˆ-
+ksquid:S1192&"HDefine a constant instead of duplicating this literal "session" 3 times.(Øäâøúÿÿÿÿ8Òöú‰-
+ksquid:S44882"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(³ì¨ÿÿÿÿÿ8Òöú‰-
+isquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(¾Üƒ¸8Òöú‰-
+~squid:UselessImportCheck"SRemove this unused import 'org.springframework.web.bind.annotation.ModelAttribute'.(®ùæé8Òöú‰-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Şãı‰-
+lsquid:UselessImportCheck"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“8Äû–‰-
+fsquid:S4488$"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(›É¤Í8Òöú‰-
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¤úÙ8Òöú‰-
+fsquid:S4488,"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(°ºµ­8Òöú‰-

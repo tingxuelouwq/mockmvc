@@ -15,7 +15,7 @@
 <body>
     <div>
         <div class="content">
-            <form action="${ctx}/users" method="post">
+            <form action="${ctx}/flash" method="post">
                 <div>
                     <input name="id" type="text" placeholder="请输入用户id"/>
                 </div>

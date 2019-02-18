@@ -9,9 +9,6 @@ public class User implements Serializable {
     private String id;
     private String name;
 
-    public User() {
-    }
-
     public String getId() {
         return id;
     }
@@ -26,5 +23,13 @@ public class User implements Serializable {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                '}';
     }
 }
